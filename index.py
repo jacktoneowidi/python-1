@@ -12,7 +12,7 @@ name = input('whats your name ?')
 print ('hello', name)
 
 def hello():
-    print('hello')
+    print('hello'),
 
 name = input('whats your name \n')
 hello()
