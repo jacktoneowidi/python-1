@@ -15,5 +15,5 @@ def hello():
     print('hello'),
 
 name = input('whats your name \n'),
-hello()
+hello(),
 print(name),
